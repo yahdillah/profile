@@ -2,8 +2,11 @@
     "version": 2,
     "framework": null,
     "functions": {
-        "api/*.php": {
-            "runtime": "vercel-php"
+        "api/**/*.js": {
+          "runtime": "@vercel/node@2.0.0"
+        },
+        "api/**/*.py": {
+          "runtime": "@vercel/python@3.9.0"
         }
     },
     "routes": [
