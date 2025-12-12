@@ -3,7 +3,7 @@
     "framework": null,
     "functions": {
         "api/*.php": {
-            "runtime": "joubertredrat/vercel-php@0.10.0"
+            "runtime": "https://github.com/joubertredrat/vercel-php/archive/refs/tags/v0.10.0.tar.gz"
         }
     },
     "routes": [
