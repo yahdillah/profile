@@ -60,7 +60,7 @@
                             </tr>
                             <tr class="border-b hover:bg-emerald-50 transition">
                                 <td class="p-4 font-bold text-emerald-900 whitespace-nowrap bg-gray-50 md:bg-white">NPSN / NSM</td>
-                                <td class="p-4 text-gray-700">69853909 / 111231720173</td>
+                                <td class="p-4 text-gray-700">60706514 / 111231720173</td>
                             </tr>
                             <tr class="border-b hover:bg-emerald-50 transition">
                                 <td class="p-4 font-bold text-emerald-900 whitespace-nowrap bg-gray-50 md:bg-white">Alamat</td>
